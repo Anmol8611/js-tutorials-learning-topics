@@ -5,4 +5,6 @@
 let myYoutubeName = "hiteshchoudharydotcom"
 
 let anotherName = myYoutubeName
-console.log();
+anotherName = "chaiaurcode";
+console.log(anotherName);
+console.log(myYoutubeName);
