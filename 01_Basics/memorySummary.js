@@ -8,3 +8,5 @@ let anotherName = myYoutubeName
 anotherName = "chaiaurcode";
 console.log(anotherName);
 console.log(myYoutubeName);
+
+let user = "anmol";
